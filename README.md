@@ -1,6 +1,6 @@
 # Stickbug
 
-## Roundtimber Robotics and 6 axis Toolpath Generation
+## Robotic Roundtimber and 6 axis Toolpath Generation
 
 **This Grasshopper plugin was developed as a teaching tool for a digital design and fabrication elective course at the IIT School of Architecture in Chicago, focusing on the innovative use of non-standard round-timber elements through 6-axis robotic fabrication.** 
 
