@@ -18,4 +18,4 @@ Special thanks to the Director of the Decon/Recon Lab, Dillon Pranger, for co-te
 [**Download on Food4Rhino**](https://www.food4rhino.com/en/app/stickbug)
 
 ![Logging](Images/stickbug2.jpg)
-*Author using Stickbug*
+*Stickbug in action*
