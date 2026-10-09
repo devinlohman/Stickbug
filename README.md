@@ -12,4 +12,4 @@ Additional components assist with student workflow concerns and simple unit syst
 
 Special thanks to the Director of the Decon/Recon Lab, Dillon Pranger, for co-teaching this course with me and helping build out the functionality of this plugin, and Sarah Grunert for assisting with graphic design, as well as all the 'Arch 492 Logging//Logging' students for being the guinea pigs in the development of this tool.
 
-[**Download on Food4Rhino:**](https://www.food4rhino.com/en/app/stickbug)
+[**Download on Food4Rhino**](https://www.food4rhino.com/en/app/stickbug)
